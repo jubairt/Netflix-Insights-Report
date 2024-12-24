@@ -17,8 +17,8 @@ This Power BI project explores Netflix's dataset to extract meaningful insights 
 
 ### 2. Genre Insights 🎭
 - **Top Genres by Titles**:
-  - Drama: 1,352 titles
-  - Comedy: 982 titles
+  - Comedy: 1,352 titles
+  - Drama: 982 titles
   - Action: 964 titles
 - **Highest Average Rating**: Documentary (8.1), followed by Biography/Crime.
 
