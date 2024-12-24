@@ -30,10 +30,6 @@ This Power BI project explores Netflix's dataset to extract meaningful insights 
 - **Countries with Most Titles**: USA, UK, Japan.
 - **Voting Trends**: Titles with higher votes tend to have better average ratings.
 
-### 4. Audience Behavior 👥
-- **Popular Genres by Audience**: Action, Comedy, and Drama dominate viewership.
-- **Vote Distribution**: Titles with exceptional ratings attract significantly higher votes.
-
 ---
 
 ## Technologies Used 🛠️
