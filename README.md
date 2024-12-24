@@ -22,7 +22,7 @@ This Power BI project explores Netflix's dataset to extract meaningful insights 
   - Action: 964 titles
 
 ### 3. Global Trends 🌍
-- **Countries with Most Titles**: USA, UK, India.
+- **Countries with Most Titles**: USA, UK, Japan.
 - **Voting Trends**: Titles with higher votes tend to have better average ratings.
 
 ### 4. Audience Behavior 👥
