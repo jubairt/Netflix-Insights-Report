@@ -5,6 +5,11 @@ This Power BI project explores Netflix's dataset to extract meaningful insights 
 
 ---
 
+## Dashboard Preview 🖼️
+![Netflix Dashboard](./Screenshot.png)
+
+---
+
 ## Key Insights 🔑
 
 ### 1. General Statistics 📈
@@ -31,39 +36,11 @@ This Power BI project explores Netflix's dataset to extract meaningful insights 
 
 ---
 
-## Dashboard Preview 🖼️
-![Netflix Dashboard](./Screenshot.png)
-
----
-
-## How to Use 📌
-1. Clone this repository: `git clone https://github.com/username/netflix-dashboard.git`
-2. Open the `.pbix` file in Power BI Desktop.
-3. Interact with the visuals to explore insights.
-
----
-
 ## Technologies Used 🛠️
 - **Data Visualization**: Power BI
 - **Data Source**: Netflix dataset
 
 ---
 
-## Contribution 🤝
-Feel free to contribute by submitting issues or creating pull requests. Let's make this project even better!
-
----
-
 ## Conclusion 🏁
 This project highlights how data visualization can uncover meaningful patterns in streaming content. From genre popularity to global audience preferences, these insights can guide content creators, marketers, and decision-makers in the entertainment industry. Dive into the dashboard to explore these findings interactively!
-
----
-
-## Connect 🌐
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub Repository](https://github.com/username/netflix-dashboard)
-
----
-
-## Hashtags 🔖
-#Netflix #PowerBI #DataVisualization #Movies #TVShows #DataAnalytics #Dashboard #Entertainment #Streaming #GlobalTrends
