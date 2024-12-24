@@ -6,7 +6,7 @@ This Power BI project explores Netflix's dataset to extract meaningful insights 
 ---
 
 ## Dashboard Preview 🖼️
-![Netflix Dashboard](./Screenshot.png)
+![Netflix Dashboard](https://github.com/jubairt/Netflix-Insights-Report/blob/main/Neflix%20Report.png)
 
 ---
 
