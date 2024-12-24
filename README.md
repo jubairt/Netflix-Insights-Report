@@ -20,7 +20,6 @@ This Power BI project explores Netflix's dataset to extract meaningful insights 
   - Comedy: 1,352 titles
   - Drama: 982 titles
   - Action: 964 titles
-- **Highest Average Rating**: Documentary (8.1), followed by Biography/Crime.
 
 ### 3. Global Trends 🌍
 - **Countries with Most Titles**: USA, UK, India.
